@@ -1,0 +1,9 @@
+//<name>[weaponPosition](accuracy)(damage)(dispersion)(rateOfFire)(reloadTime)(bulletsPerClip)(clips)(colLen){oneHanded}{explosive}{melee}
+<Submachine_Gun>[15,2](.75)(5)(1)(100)(1000)(100)(3)(20){n}{n}{n}
+<Sniper_Rifle>[16,0](.96)(7)(1)(100)(2500)(1)(10)(1){n}{n}{n}
+<Pistol>[22,3](.8)(1.5)(2)(300)(1000)(6)(20)(3){n}{n}{n}
+<Rocket_Launcher>[3,-4](.55)(20)(1)(1000)(2000)(3)(5)(3){n}{y}{n}
+<Shotgun>[12,2](.2)(3)(8)(300)(1500)(24)(5)(4){n}{n}{n}
+<Mini_Blaster>[16,0](.8)(.5)(3)(175)(2000)(20)(5)(5){n}{n}{n}
+<Neo_Uzi>[20,0](.6)(.5)(2)(100)(500)(8)(20)(4){n}{n}{n}
+<Dagger>[37,6](-1)(5)(2)(200)(-1)(-1)(-1)(-1){y}{n}{y}

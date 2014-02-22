@@ -92,7 +92,6 @@ public class Runner {
                                                      // some date in 1970. Idk why.
         long cumTime = startTime; // This is startTime, except it changes in real time, while startTime remains
                                   // constant.
-
         while (running) { // This lets the Main loop run.
             long timePassed = System.currentTimeMillis() - cumTime; // This is the time that has passed between now and
                                                                     // the last time the method was called.
